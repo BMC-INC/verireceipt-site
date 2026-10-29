@@ -1,12 +1,14 @@
 # VeriReceipt · Public Website
 
-The public information, support, and policy website for VeriReceipt, a receipt capture and organization app.
+The public information, support, and policy website for VeriReceipt, a personal receipt capture and organization project by James Benton.
 
 [Visit the website](https://bmc-inc.github.io/verireceipt-site/) · [Support](https://bmc-inc.github.io/verireceipt-site/support/) · [Privacy](https://bmc-inc.github.io/verireceipt-site/privacy/)
 
 ## What this repository contains
 
-This is a complete static website. It contains the product overview, support information, privacy policy, and terms of use. The VeriReceipt application, receipt processing, and subscription implementation are maintained separately; this repository does not include an installable receipt app.
+This repository contains a static website: the project overview, support information, privacy policy, and terms of use. It does not include an installable receipt app, receipt processing, or a subscription implementation. The website's presence does not establish that the application is complete or available for installation.
+
+This personal project is part of [BMC INC's public collection](https://github.com/BMC-INC), which includes open-source tools, research, experiments, and project websites. BMC INC also maintains a broader portfolio of private repositories for company products and internal development.
 
 | Page | Purpose |
 | --- | --- |
